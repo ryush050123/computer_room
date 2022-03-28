@@ -1,1 +1,1 @@
-# 컴퓨터실에서
+# computer_room
